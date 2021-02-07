@@ -1,0 +1,8 @@
+.cache/
+.eggs/
+.mypy_cache/
+.tox/
+.*.sw*
+*.egg-info/
+.pytest_cache/
+__pycache__/
